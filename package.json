@@ -1,0 +1,25 @@
+{
+  "name": "aula_api1",
+  "version": "1.0.0",
+  "description": "primeira aula de api com git na pratica",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joabeArthur/aula_api1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joabeArthur/aula_api1/issues"
+  },
+  "homepage": "https://github.com/joabeArthur/aula_api1#readme",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.2.1"
+  }
+}
